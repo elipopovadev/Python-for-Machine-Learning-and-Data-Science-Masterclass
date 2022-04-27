@@ -1,6 +1,6 @@
 # Python for Machine Learning & Data Science Masterclass
 ![Screenshot 2022-04-08 at 16-29-56 Pierian-Data - Overview](https://user-images.githubusercontent.com/75258625/162445924-0dbf4b82-abab-4658-9ee1-5c6f3bb68bea.png)
-### Course Content:
+### Course content:
 * Programming with Python
 * NumPy with Python
 * Deep dive into Pandas for Data Analysis
